@@ -108,9 +108,9 @@ Please be sure that at least one group covers the Neural Networks method from be
 
 ### Code
 
-#### `tutorialCode.r`
+#### `tutorialCode.py`
 
-Follow the code in the tutorial exactly as presented. Your goal is to get it running on your machine by copying and pasting the code. After execution, the code should produce meaningful output, such as plots, tables, or other forms of analysis. Be sure to place this tutorial code into the `src/tutorialCode.r` file.
+Follow the code in the tutorial exactly as presented. Your goal is to get it running on your machine by copying and pasting the code. After execution, the code should produce meaningful output, such as plots, tables, or other forms of analysis. Be sure to place this tutorial code into the `src/tutorialCode.py` file.
 
 ### Writing
 
